@@ -1,0 +1,11 @@
+id: 67b7a3c1bd624de2af0bc8ad83cca8ec
+annotation_type: index
+revision: '00001'
+annotations:
+  561a9a1fceb94a8496eeca899f599410:
+    base: 0E48.txt
+    Chapters:
+    - title: Māṇavikā
+      span:
+        start: 0
+        end: 4645
